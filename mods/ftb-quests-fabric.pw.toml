@@ -3,8 +3,8 @@ filename = "ftb-quests-fabric-2101.1.16.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "39112a152c3e63c468f1fcc9b3b4bfac5807895c"
+hash-format = "sha256"
+hash = "de8c66d8dec0fffef8eedea8044dfb5464f100402c95171f34f3249f188af175"
 mode = "metadata:curseforge"
 
 [update]

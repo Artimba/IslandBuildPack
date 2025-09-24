@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wGKYL7st/versions/XEM0T44p/combat_roll-fabric-2.0.5%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "e5ce6fb932a91b69a060b45a9ba1963d1ee7e24491986067103607848ab84b29e74272e07a13bf961a822ea8aeeeaa6f1189c0440ad11db5406844dce44aa26c"
+hash-format = "sha256"
+hash = "0261af7d85e92e90e19de0bbce7c25996e97be647602d91aa6e4956c52bb1499"
 
 [update]
 [update.modrinth]

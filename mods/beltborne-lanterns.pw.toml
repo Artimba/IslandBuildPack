@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NUFDZAKS/versions/cKPAhA1z/beltborne_lanterns-1.2.1-fabric%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "cfa712c6bd80e681d31bb22703c375529d95f85ea27d7a5ec5006df67202e0eca952fe28934d35af21426a80961a76189275449368163520103b0833d6f423b4"
+hash-format = "sha256"
+hash = "1072de2f7747c7c5be06c8c3eb82d6e0e3db3a1d8549cd6218ff7bec19876cdb"
 
 [update]
 [update.modrinth]

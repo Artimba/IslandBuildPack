@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hn5J0YBk/versions/EaBt9ffZ/wolfcompanion-1.0.0.jar"
-hash-format = "sha512"
-hash = "33b653e470384156b8f98f27c722e3d9556b59be374744086913d982265d7940567493ff4dbf3305754311809e7bac9b8d415dae8fdb0ede7738697cf952b0f8"
+hash-format = "sha256"
+hash = "cf609b6318432e04876d57ffa465eaf4dc762e6a1e8b131aff60bf8ca60f93a4"
 
 [update]
 [update.modrinth]

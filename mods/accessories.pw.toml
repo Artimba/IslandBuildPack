@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/t2XlVj4I/accessories-fabric-1.1.0-beta.51%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "0f20aa7e159b07ca7214ba820a0c721d74109c6148af9a618f881558623a291249f41a580055010d91c8f7419070793e729051f7d8abb281755d9631de70a1e7"
+hash-format = "sha256"
+hash = "e56695f337cadc744b600cc43631d4bbe086d5010286c60a4e960789b86e19e0"
 
 [update]
 [update.modrinth]

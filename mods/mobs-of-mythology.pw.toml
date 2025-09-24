@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/avrKhvsK/versions/JpQhYeB3/mobs_of_mythology-fabric-1.21.1-2.2.2.jar"
-hash-format = "sha512"
-hash = "bbd204f35d939ff575d90bccf1ba112101d3f5cfb0c17e47702b2200a36a35221d6989564f657d808e3b0756a1845a27e946b1a669daf3cf6851fcc131113aa9"
+hash-format = "sha256"
+hash = "49764f05130b1a56429bcccdf1e355437266461626e8eed4938ffcb1ebc20cd7"
 
 [update]
 [update.modrinth]

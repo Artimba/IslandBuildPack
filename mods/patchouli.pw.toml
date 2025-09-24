@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/sAUHGZXc/Patchouli-1.21.1-92-FABRIC.jar"
-hash-format = "sha512"
-hash = "ebbf38da72c7837b22f5132ecc8f0e36202bb6349142772269df17088e780608f8d7683bf303a9a2a0a4ae1f59c8d00ca3f4b5b76f13e3152f199898be8c62f9"
+hash-format = "sha256"
+hash = "78cb597a26e07da08acd6ad1c8df729eed15552079efd5dbf60fc153310ed246"
 
 [update]
 [update.modrinth]

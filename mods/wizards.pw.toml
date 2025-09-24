@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/ZC9aeEwt/wizards-fabric-2.6.0%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "f8d0c7dc43a0315f0603ae50731e85f103b033e4eb15342c8d5dfa7350937145d56f3232116a33761aa3910505e2897d41c9459150b79f73dc27e1ac62719aca"
+hash-format = "sha256"
+hash = "582d9eebc99114c40f1485b884ff5225e93a21d466d9326e3809ac5aeca219d2"
 
 [update]
 [update.modrinth]

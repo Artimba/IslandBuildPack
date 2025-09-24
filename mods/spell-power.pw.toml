@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/aJfLAByk/spell_power-fabric-1.4.0%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "2b5550603cb16f5b8690a03f63a517c50cd16713ff44671dbf1565a62f399f5392bf4bd00cb37f72d37a0d287a427c32a34e592ccc6c5e0ccef9d7a3c9ccfb77"
+hash-format = "sha256"
+hash = "f1a01f5a246a6f1655f7366da4905f16c898a6e04b0cb94f2f5d9c149cec2e5d"
 
 [update]
 [update.modrinth]

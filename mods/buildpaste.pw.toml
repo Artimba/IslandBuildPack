@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9kNC5Mrh/versions/dgxCZTXi/BuildPasteFabric-1.21v1.6.2.jar"
-hash-format = "sha512"
-hash = "00e07aff6a883d5079d73892c7291c967077026b6a47bbdcbc657e4890ffd0d74004e4f20c99bddd991798983beb52865608e4c51a50d92e21c4da191c4405a9"
+hash-format = "sha256"
+hash = "7ffeee9cb5518d4bf8a4c146e5b70d40000d94a369d22dcb952c967cbe873857"
 
 [update]
 [update.modrinth]

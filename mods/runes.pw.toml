@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/wjD3IPY6/runes-fabric-1.2.0%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "56290f9da8a0ece16a6c0e1549edefed0265949a0b17930c5b8380e4f34c43e1833e32e12303333b75bcff83423292bfe4aebed9bef6839e80958eb0bddbd3b7"
+hash-format = "sha256"
+hash = "202d37da92473ffaf003f1ba4a4d436a6d11f088a08290899c54f9d3321fad9a"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/cgD3wLtR/gliders-1.21.1-fabric-1.1.8.jar"
-hash-format = "sha512"
-hash = "15fc392127c5d1db49072ce746a5fe7b5cc2505c18a5bfc180f29881a90e872531e760757e977bc62676a2238db00e1ce9c0ba12d6bc8fdde2356514af3b1fb3"
+hash-format = "sha256"
+hash = "429a19bf2d01b17bc7f71f88577b537b40c700a90866a8c77757f82e71d9f829"
 
 [update]
 [update.modrinth]

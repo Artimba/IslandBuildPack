@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1W5PhsYU/versions/vSV7h2qP/NotEnoughTrials-1.21-v4.0.jar"
-hash-format = "sha512"
-hash = "5ed8bd9e07f707e9bcf0f450a39a090f08ec4252abfd144be1045ae9e2244d5307b12a031025a5551614b9fc7fd6842bf9907879e5e19ad7b231f3958beb7d3b"
+hash-format = "sha256"
+hash = "2567bb383652dbf30f67c800bcabb3b4e7eb8937b4bf136d84f7522736de9409"
 
 [update]
 [update.modrinth]

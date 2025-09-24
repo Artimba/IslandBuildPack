@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YX0eip4b/versions/qTUvNbi7/lifesteal-9.1.3%2B1.21.jar"
-hash-format = "sha512"
-hash = "84386669c485f609803f7bd9fa37c91aa9a09f94fcc14b4c3a6c8166d339c3a5048cddd09d99f99958b7c7767420a351cc44e6054551b9c2849f16310cc67499"
+hash-format = "sha256"
+hash = "61f604db91bdd48b93b6e13a3f886f2fbe558d39826777e2369c1f6b1cc0e10d"
 
 [update]
 [update.modrinth]

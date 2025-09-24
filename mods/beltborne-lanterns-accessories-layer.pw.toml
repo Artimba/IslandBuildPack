@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/geZ7ilkE/versions/sZyhCoZy/bl_accessories_layer-1.0.1-fabric%2B1.21.jar"
-hash-format = "sha512"
-hash = "6fd4d984dfee3d62fbcffc0536314f0b60475fbe2d2e30cdce735b8754ba81f77fe473201af7f618a87ecaff6f2d0b2270cbca227c3ebd0a88aab2f139840b86"
+hash-format = "sha256"
+hash = "fd71972840a9336f3eda51f50ed03e5ecfadfa7b0a48e5789cd261ae2e7db34b"
 
 [update]
 [update.modrinth]

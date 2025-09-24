@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/KbZBLcFA/CraftTweaker-fabric-1.21.1-21.0.34.jar"
-hash-format = "sha512"
-hash = "76a80686f0fbf988ee8f7b785a7e1d228bc7484e8af4f787541e47f00b51a12488bcb0c284c03d054b0fa0e1064ea792e62a91da90badcf5ebbd59ad2b46bf4e"
+hash-format = "sha256"
+hash = "a72c47ab259379dea59643b2f4323f5bf68aba07e87ec5290b08a24a2dece66e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/E7ZFR7qk/versions/XvAeY9KZ/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar"
-hash-format = "sha512"
-hash = "0c84e36d68f9576f494b7acb69339da5e948f38ce263be6fe75588bfffc6b95522a11e2a597c8181241f4a30897225eb5d5470d984e809ff1d4e9d754a84841b"
+hash-format = "sha256"
+hash = "788bc26585ab393c5b956e7a163d73643fa80c8b89b29bb266e8537b23b163ee"
 
 [update]
 [update.modrinth]

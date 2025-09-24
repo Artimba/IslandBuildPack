@@ -3,8 +3,8 @@ filename = "ftb-teams-fabric-2101.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d9c5418b3d95aa481c4648ed4e8031c1ba43d895"
+hash-format = "sha256"
+hash = "0b45f068881d06da03769aba432144b341b95c7f9bc5374c7725a6385b226915"
 mode = "metadata:curseforge"
 
 [update]
