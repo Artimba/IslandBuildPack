@@ -1,0 +1,13 @@
+name = "Quest Items"
+filename = "quest_items-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WsyCKVoz/versions/y0l1azfO/quest_items-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "95bbc9541263a19512057dc525c72be632a2011f075ca2b93f9f25e1a33a51fd78dad9394c0bcac07956bc327553af0a01a0d3653a8b29c64fe7b26ec745c947"
+
+[update]
+[update.modrinth]
+mod-id = "WsyCKVoz"
+version = "y0l1azfO"

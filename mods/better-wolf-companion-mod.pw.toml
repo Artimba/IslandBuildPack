@@ -1,0 +1,13 @@
+name = "Better Wolf Companion Mod"
+filename = "wolfcompanion-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hn5J0YBk/versions/EaBt9ffZ/wolfcompanion-1.0.0.jar"
+hash-format = "sha512"
+hash = "33b653e470384156b8f98f27c722e3d9556b59be374744086913d982265d7940567493ff4dbf3305754311809e7bac9b8d415dae8fdb0ede7738697cf952b0f8"
+
+[update]
+[update.modrinth]
+mod-id = "hn5J0YBk"
+version = "EaBt9ffZ"
