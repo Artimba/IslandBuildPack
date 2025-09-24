@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "6a2f0f5a9f259bc167087c4bc94550e84cbbcc905e15600d50e00420e37b57b3"
+hash = "f4a62a8f6622d007a1ab94c2fa642f4b444a753c9db198f32fc097a75bfdbd91"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "034c9ee764c812fb81720da841714133633ac4555229c42b24a0eb5982b175bb"
+hash = "221430c0b7f960f1aacf312c042a126af114b423ab7970caebb6dbb5f8eaaef2"
 metafile = true
 
 [[files]]
@@ -513,10 +513,6 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "2dae82f8c75e5b8cb57ad8dbdc66e0a69fad044c6e33740b37e7d37d2a32bf7c"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "df1cfdbff219982ec41f15f0a184a399ba03a8134e02492b85936f0ceed4b2e8"
 
 [[files]]
 file = "servers.dat"
