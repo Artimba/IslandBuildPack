@@ -1095,10 +1095,6 @@ hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
 metafile = true
 
 [[files]]
-file = "mrpack_util.py"
-hash = "981b7d9752757eb1181b8298f418ff11c5041405b52ddb1c3680ae6148072f59"
-
-[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
 metafile = true
