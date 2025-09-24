@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PuyPazRT/versions/lr711NiN/SmartBrainLib-fabric-1.21.1-1.16.10.jar"
-hash-format = "sha512"
-hash = "1b61794d19cf6b0c88a888b9b3d7dc35cb979825a62ce0f81edf8961f1c2de35ae8abb5b91238e422d455face9a817f56456925ae296503d833ca63fae49e33b"
+hash-format = "sha256"
+hash = "a5b34efbc8cd9fe49b5d74d0d8e0f0f5fd290e1550aa924ffa6cfac6855eb8d9"
 
 [update]
 [update.modrinth]
