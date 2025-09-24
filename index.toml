@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfca9d41ed4f455d125f53d507885063f34e9974e24e665c04c7407d7396491e"
+hash = "8ab145d5746ea395c37aeb7c48d3da6c60664c9c3a172e433892978c809a6ec3"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "6a2f0f5a9f259bc167087c4bc94550e84cbbcc905e15600d50e00420e37b57b3"
+hash = "b2d420240f1617f3b6e95f4ef9355d4c2e25a0e65bb5f896a26c9a9195aee047"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "034c9ee764c812fb81720da841714133633ac4555229c42b24a0eb5982b175bb"
+hash = "2efb8056db5874f9c1f2e3533fb19efa42fa93700f615b74bc7ea629c4cb4488"
 metafile = true
 
 [[files]]
