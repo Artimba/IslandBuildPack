@@ -175,6 +175,11 @@ hash = "b7edd536eaa497bc1f46956ee36e9ea5137ee36569bc0819241887162b985a10"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "26ad709f7eb6dbec515fccecf2973ee941bdcaaabe81dd7f065d82d56f3e1d71"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "ffc4493ab8676b01bec499c34d69514a3aeda383d7ebdf2f00d8eee209ea3477"
 metafile = true
@@ -230,8 +235,18 @@ hash = "b1a2f33743504db0099a8811b5a923ce56261d5aff2770d3a8812654dbd5e85d"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "5295b04ce2d1cd0953acb201990dc5a78b3a334f127ab8cadbdcb83d3f4bc301"
+metafile = true
+
+[[files]]
 file = "mods/fastback.pw.toml"
 hash = "6e0db4c7470a93ab19117c51563b12a8a5a712aa168a6bf3a79d948a58f6894e"
+metafile = true
+
+[[files]]
+file = "mods/fastmove-1-21-1-1-0-8.pw.toml"
+hash = "2a240e2ac1d4ec747ab8a236c72c27674571ab6a1047b05ee16b09786edfa86f"
 metafile = true
 
 [[files]]
@@ -295,6 +310,11 @@ hash = "7bcb80d95ea67111188bc96212b2eba909f720764666cdf5fb4928a71f4aed11"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "dc1024ae8442452af1876360d117b780093b33b75b56fe3b6a991440dc604037"
 metafile = true
@@ -322,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "4c15a093aa024c4b6f65a4f09727c915c33793bba86c932bd0a0e1957669d905"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "114f57ad1875c16cd7d9b9cf850025f40e1b008f0865f3e5783da8cfc128b291"
 metafile = true
 
 [[files]]
@@ -502,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "f06f38a1854489f0ec7d6832526ac1b1f3423f88b943ef656b11e32151f6f450"
+metafile = true
+
+[[files]]
+file = "mods/spiffyhud.pw.toml"
+hash = "4da7be263869ae3152be5bbe0fa0653ee5f5805d32ad26ddebd97a1e18912cd0"
 metafile = true
 
 [[files]]
