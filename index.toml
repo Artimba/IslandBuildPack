@@ -200,6 +200,11 @@ hash = "1b19df0cc513afb350dbe0d93830d635140acecb768f3905e531865ae31ffa64"
 metafile = true
 
 [[files]]
+file = "mods/extended-wold-height-512.pw.toml"
+hash = "3cb08117b13f951d451ebecd519db263fb260519e1ed0f2bb91e972ca1177f1b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfca9d41ed4f455d125f53d507885063f34e9974e24e665c04c7407d7396491e"
 metafile = true
