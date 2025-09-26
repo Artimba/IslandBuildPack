@@ -55,6 +55,11 @@ hash = "b6752a92e4627f7ce0c0dee86c0bbc2b31af1a372c6fd2a39f1cadd622962013"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "1128a0e9a235a4880ecc80570d969c38d30ca2c03222fb5d097c4bbf302a6760"
 metafile = true
@@ -150,6 +155,11 @@ hash = "405e1600a4974d19c3b2ac6c53c2652f823280f7460bfa6193038cb32dcd7a41"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "899a506ec93d9bbc84e58aebeb369847493f97a4383e6691a5d51dbb9c2f6ea2"
+metafile = true
+
+[[files]]
 file = "mods/customnpcs-unofficial.pw.toml"
 hash = "f4318c673269edac07e150120980ee4e4ff7b9a926a99ccb4882ef8b8b848e7f"
 metafile = true
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "eedd1cf688140a602b2c4ebd69d8dee871c2e356289c03a8981d1f57de2e2c90"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "5c1b16bbf2308c87c81a713cac4b2e6c6796e854d5133281c759759375e02d94"
 metafile = true
 
 [[files]]
@@ -192,6 +207,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bf60e9b23fe38e99d24ec584b108b89c803deb06993844fd0ecf5928d970e98c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-voice-chat-broadcast.pw.toml"
+hash = "197ca779eff7c8f1cd567e702693bc035cae203f5c46b5c2c2ddf4f214d3d96f"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "b1a2f33743504db0099a8811b5a923ce56261d5aff2770d3a8812654dbd5e85d"
 metafile = true
 
 [[files]]
@@ -497,6 +522,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "17c12625ab02fe62bf48455dcc5110d48f79933e11a54fb6910867e0d7f80c72"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
+file = "mods/wiretap.pw.toml"
+hash = "6fec8dc866d64dcaa8b0629c98482c26e4ef055aca91bc2d581a0bbd1c7aa620"
 metafile = true
 
 [[files]]

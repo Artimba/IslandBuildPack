@@ -1,0 +1,13 @@
+name = "Fabric Voice Chat Broadcast"
+filename = "voicechat-broadcast-fabric-1.1.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KWmrTkcC/versions/Cc82Z7gc/voicechat-broadcast-fabric-1.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "d61215432348a23561dab6a124b95cd0010d40c4ad0a523781cceca0cd2b14507f1adfeed4e4f50dc6b9af71eaa3d2dfb6a122a1efcb55a54e1359aaec2c86da"
+
+[update]
+[update.modrinth]
+mod-id = "KWmrTkcC"
+version = "Cc82Z7gc"
