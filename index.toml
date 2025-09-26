@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/loading_screen_title.png"
+hash = "9e5e30eea46db06456790ea6833ae9a044272892988381e8f911d1b54c16370c"
+
+[[files]]
 file = "config/fancymenu/assets/minecraft_title_2.png"
 hash = "beaee054cb77c9b153ba35aa7f5607b256dd88069e2d553ffe21f573fa8d87ae"
 
@@ -30,7 +34,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
+hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
