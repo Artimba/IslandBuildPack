@@ -18,7 +18,15 @@ hash = "0169687d5928d6b3476ca9367bc8740bc62e58925b3efee537a91f22a66e08bc"
 
 [[files]]
 file = "config/fancymenu/customization/civlization_layout.txt"
-hash = "925c05b0e30c68647fe99fd350df73241c6b8763c3802d37066f3c6ef6a77e4b"
+hash = "fb3895a02945ac0706380bf2215128bd503002def3aec44a880209cbe89dcd19"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "917a858e442bce4dba641e4105c7cbecaaf503ee8243b83a6b0c2c0d33d2a2ec"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "84cc9bad154f992fee62aff80891a7158503831ece390b7c4ca554792b8e43d7"
 
 [[files]]
 file = "config/fancymenu/customization/refuge_layout.txt"
@@ -34,7 +42,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
+hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
