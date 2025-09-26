@@ -14,7 +14,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "0169687d5928d6b3476ca9367bc8740bc62e58925b3efee537a91f22a66e08bc"
+hash = "b9d0e0c1f4055d51a6853ec549aa23fbf790b39fc21becc598bee289a4c8284e"
 
 [[files]]
 file = "config/fancymenu/customization/civlization_layout.txt"
@@ -34,7 +34,7 @@ hash = "0e3b00ebc1b015d33766b6c79c1fbaba8e1e80e9b5872633ebb59504f44711db"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -42,7 +42,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
+hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
