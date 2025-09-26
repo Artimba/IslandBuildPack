@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KWmrTkcC/versions/Cc82Z7gc/voicechat-broadcast-fabric-1.1.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "d61215432348a23561dab6a124b95cd0010d40c4ad0a523781cceca0cd2b14507f1adfeed4e4f50dc6b9af71eaa3d2dfb6a122a1efcb55a54e1359aaec2c86da"
+hash-format = "sha256"
+hash = "f58d9d049f9b05e499a611420f36f06e8d68507a842a5cafac6e9a584dcae0cf"
 
 [update]
 [update.modrinth]

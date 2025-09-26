@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/wtOPHICQ/versions/vcNrJ46P/spiffyhud_fabric_3.0.0_MC_1.21.1.jar"
-hash-format = "sha512"
-hash = "3cf8abf7df5534278dcdb5726b1dc0ee4a8b0ebe44f53c95da58cc18e9fd893f1853f0a2f9dd5a0b1daf1eed107d902d9223a18cba65661a4d118d0135985e61"
+hash-format = "sha256"
+hash = "b86a142381519f64c26fc7a58af87589e1aa13b5102205300499d9655e7fb01f"
 
 [update]
 [update.modrinth]

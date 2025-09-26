@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/q3tICGpu/versions/OzRZBFR5/wiretap-1.3.0%2B1.21.1.fabric.jar"
-hash-format = "sha512"
-hash = "d48942b6ce029bd19e530840df047014eabc3fe15d8af91f134144908beba38d19e262b96ca52c97a5fc235ba041409eb522a3dabf58dd2d429f25e36daa385f"
+hash-format = "sha256"
+hash = "2ce5b02933792b7e8decebb87a4e794d3a98db1ca310be50dceab6d48c93c586"
 
 [update]
 [update.modrinth]

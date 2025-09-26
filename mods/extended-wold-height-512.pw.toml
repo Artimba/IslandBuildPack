@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5s3brdBV/versions/Z6moBI2x/extended-wold-height-512-3.3.jar"
-hash-format = "sha512"
-hash = "0bbab363c870f3ab7eb306c960f27abf5e067a7b95b7c6fc742442b0e9e9598bfd38a596ddd7035703c4b2e56e19a1e45a459ec615c7a27f377917da019b0e71"
+hash-format = "sha256"
+hash = "5ff0ce99320d0f1247630d1f5988bb1a201189e34ee787d469fa6fce3c6cf984"
 
 [update]
 [update.modrinth]
