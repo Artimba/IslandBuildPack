@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/minecraft_title.png"
-hash = "beaee054cb77c9b153ba35aa7f5607b256dd88069e2d553ffe21f573fa8d87ae"
-
-[[files]]
-file = "fancymenu_data/minecraft_title.png"
-hash = "42931202f2d844251ef21f7b1973a68c0744fe8d3378f3722626cb0853f7ede5"
-
-[[files]]
 file = "icon.png"
 hash = "4afab6fd4b35ad0d31b83c02cb0d615fa5c32c3dc4563156b8e58704cd1f05d7"
 
@@ -64,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "35a3305e310a66607c2e1f8461d6e90a55ca46855cd9b7c1563d8f9a15518469"
+hash = "61245ff41c19a1045dc98d68d10afeb95efa418760d4105983084828689257b0"
 metafile = true
 
 [[files]]
@@ -104,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "1a17ab04aee8a8e1a10c9e3cc8fb3d0042256331d019d084ed2161791099af05"
+hash = "eba510c7df536447a25c51ef2faff95d6a3739cc83ca589bfc55f701392bdef7"
 metafile = true
 
 [[files]]
@@ -169,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/crossstitch.pw.toml"
-hash = "cfa75340aa34cc6adf4a24d54b0f64b1e16b491f9624b3e0760f4a7fee7ee94d"
+hash = "93d80aac6d375f21ee71493ee07d3cd0eac81a284d395941fe2370f4a594ef24"
 metafile = true
 
 [[files]]
@@ -184,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "998ca86f1d887968d9ece37419fbb7d9e6e6609354be10420db2998bd939cced"
+hash = "7ee43bd757a4bdcd3b0f1cab4ec7186822da693017b6d1e243c324ff0511cfcb"
 metafile = true
 
 [[files]]
@@ -199,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "4804a68af138e281a44175ccec8e57ecb3f42407e4d32f6278873bc5751079c9"
+hash = "7a67108d675e873be63c432771d4497ed9011c8dfdd6cd86865131f99d3004c0"
 metafile = true
 
 [[files]]
@@ -219,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-wold-height-512.pw.toml"
-hash = "bb9c88b431e58533c44c6825ad2caba5ee0f0632f00b6846be9633f132a0ac7e"
+hash = "39dcf715953c97e56974b633574d88bc7adbac527e593abb405360908ee515b9"
 metafile = true
 
 [[files]]
@@ -234,17 +226,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-voice-chat-broadcast.pw.toml"
-hash = "a398acd18c9ea0ea968acbe1417a08c320a557ab0e528ca44702ebf1127ccbf9"
+hash = "d723300d2e4433fc7d7bc309959d20cf2abacccda802d35c918af2b2acac4881"
 metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "8bf04b6d9f48a52d39bb00bbb51e150d6e6c854c0c1d2f039489821047e85ffe"
+hash = "61b509a0637f2fbbffcd8f943d4e15464a6b8d907fd19dd76b61641d9c897a36"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c6763b1181c9c5f169977fd18a6990a048c82b945b51d0f149299bdb8a36c2cd"
+hash = "b701161708852b4083232f637e443d03de7992036b4545cba5eb20aaa74eaccd"
 metafile = true
 
 [[files]]
@@ -254,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastmove-1-21-1-1-0-8.pw.toml"
-hash = "2a240e2ac1d4ec747ab8a236c72c27674571ab6a1047b05ee16b09786edfa86f"
+hash = "b4bb0c43c151ba906d174304786acddeb926a9e1c8afe4332e9256a9a2d983fe"
 metafile = true
 
 [[files]]
@@ -319,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "ae3ae6c17b65f212f54a67a4144ab1e790356c1d9c22010421e4b65f2c7dc42e"
+hash = "6a3b9f13c2181222170b983ccb891ba477126cea7d267401be1a3602aec2d0f5"
 metafile = true
 
 [[files]]
@@ -354,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "94c93ea3fea7f068d05367ac92182cc502bec05e5978508b2f1d3fa6bc5754c6"
+hash = "3e6288efe10af8c0b72c80dece0a6488a5cfe851daaa11ba0da1102cde37741f"
 metafile = true
 
 [[files]]
@@ -494,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "47ac2a513d5cfdac9b572e4fea2aa5592d14681ead1dcb3974919cd25d9708b6"
+hash = "68916ed1a291504ec292239ff6fbe29d6aded7033ceea8a8175f98bc20854814"
 metafile = true
 
 [[files]]
@@ -539,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/spiffyhud.pw.toml"
-hash = "095bbd67f442c08a74bc48e090f63c2f03c6b557efd7d4151e3681a9c550e273"
+hash = "177b9022e023353bc0a5fbaa815447a9ba12adf6f0a8ed934cac4f50a836636c"
 metafile = true
 
 [[files]]
@@ -569,12 +561,12 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "fcf3a6c641f0e62bfa535da62d8a8f143df73b496ddc0ece78bac787f7289ef8"
+hash = "88396cc1a383c0427fc081372c7e8a2bea12ad43deaa4f787231bfa29506641c"
 metafile = true
 
 [[files]]
 file = "mods/wiretap.pw.toml"
-hash = "e6903d174d9d93282dfe65c371090cf1a6ad123a5d03e245b5b14f4d8f4ea666"
+hash = "9796b79e55e2347ec6b2a64df095f5f0cd7f75efebc290c0058eab888c06d481"
 metafile = true
 
 [[files]]
