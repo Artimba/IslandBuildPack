@@ -1,0 +1,8 @@
+name = "fast-move"
+filename = "FastMove-1.21-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmqpPthc/versions/IVv10wyr/FastMove-1.21-1.0.8.jar"
+hash-format = "sha256"
+hash = "4516e341b83401378fe4079e1c476f5b4a1714425ddfd01c992314bb1b98d14a"

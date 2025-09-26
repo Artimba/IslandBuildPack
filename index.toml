@@ -95,6 +95,11 @@ hash = "67b8a4703a88932ccd496f834871354ad9237be10e1bc8e14c58a3d92999b04c"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
+metafile = true
+
+[[files]]
 file = "mods/better-wolf-companion-mod.pw.toml"
 hash = "126b4637168b0a0228e633afa1e0ecfafb5cf9cb14011fe2ffe23fa4f99c7b3a"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "b1a2f33743504db0099a8811b5a923ce56261d5aff2770d3a8812654dbd5e85d"
+metafile = true
+
+[[files]]
+file = "mods/fast-move.pw.toml"
+hash = "793ad97a08725144a160d7eb003ff6fc5d7cc7ea37224edea03d3611e8a1abad"
 metafile = true
 
 [[files]]
