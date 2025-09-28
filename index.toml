@@ -521,6 +521,11 @@ hash = "3b37cc60bbb73d9d37a9f6327db8b2a139b9f16771e38c01cfa111f106a7fdb0"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "c03f734bf1c433830c0e63b845d180ec4f604bbfb5a3735cb078a3727dd127e7"
 metafile = true
