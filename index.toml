@@ -201,8 +201,18 @@ hash = "c7bf631ca2d271cd48b162984500591a855464f75926db2902eb5087190e87d6"
 metafile = true
 
 [[files]]
+file = "mods/coloredwater.pw.toml"
+hash = "e641fd2c316161c54e15e10f45625ebb3f2bf7f8489d9cbe2594fb869ef77b83"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "9cd853585be817d056f7c70ef8a044c182eca8ac9a1fd0cd8687c070bab46307"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
@@ -517,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobfilter.pw.toml"
-hash = "47ca63230d4a67af8474f01bbab29ed06fa943b4e7536ba0f627e0cf703be8ef"
+hash = "6e1274cc8bd5da7dfafcaf7abfd6ea34dc7e83895f09c3b35b8626fffb8d4d3d"
 metafile = true
 
 [[files]]
@@ -588,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "097f9a3b9b46f389b40c5946b8f792871d19e6ce484cd2b9e2926adecddf4235"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "cf04dac77f2e254922ad8fd7d48dd30957923a8ab85040b59f284be3676b3331"
 metafile = true
 
 [[files]]
