@@ -1,0 +1,13 @@
+name = "Blockus"
+filename = "blockus-2.9.10+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/xTq7CEt2/blockus-2.9.10%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "3746bc151adbe4b171d03b7c193e2228f62e4a99e39d0f1c06bb07c9f40c53d3"
+
+[update]
+[update.modrinth]
+mod-id = "zFiY2Go0"
+version = "xTq7CEt2"

@@ -1,0 +1,13 @@
+name = "Immersive Furniture"
+filename = "immersive_furniture-fabric-0.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SvN6UGeF/versions/ok4QqiYh/immersive_furniture-fabric-0.1.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "68bf5ef667f117f130b879e6e68bbb3cbb8d8f577a6f871215deab748d131567"
+
+[update]
+[update.modrinth]
+mod-id = "SvN6UGeF"
+version = "ok4QqiYh"

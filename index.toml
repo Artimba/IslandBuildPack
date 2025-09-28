@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cce33238b473f944955b2def762e0470e928afad6a1db267d429e69b417ec171"
+hash = "20ac4b3e8be440d9e7932d35127748f2908db186e352c2035e82eec929a018c3"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ hash = "126b4637168b0a0228e633afa1e0ecfafb5cf9cb14011fe2ffe23fa4f99c7b3a"
 metafile = true
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "23cb4e8c7bed83cc99e4d4254984243385d6cc4ee82766e7701847989d5fae78"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "7a6324de2cd1984f67243d72fb2f3c4d36e4a8cfc9bf4ecc72d022787b94b2a9"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "c85bdb3f7a03ce6c4bd5466f59c8ea2284f89882a0339a3ff5d5b030b2250fe6"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "47480e524587437dd8f23272cfc87ebabbfe167ed456c54b364e94ce6afd3276"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/crossstitch.pw.toml"
 hash = "cfa75340aa34cc6adf4a24d54b0f64b1e16b491f9624b3e0760f4a7fee7ee94d"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "2a3b64121b3ffe0ddcb6b3d1e28a562a617bb79318bdb1f88a8843effe618bb4"
 metafile = true
 
 [[files]]
@@ -268,6 +283,16 @@ metafile = true
 [[files]]
 file = "mods/extended-wold-height-512.pw.toml"
 hash = "bb9c88b431e58533c44c6825ad2caba5ee0f0632f00b6846be9633f132a0ac7e"
+metafile = true
+
+[[files]]
+file = "mods/extshape.pw.toml"
+hash = "335f194d2904a2b6fa12f406e70f79b19d7b4553d536b89c9b505e4398c95e4d"
+metafile = true
+
+[[files]]
+file = "mods/extshape_blockus.pw.toml"
+hash = "ab956a21702a2283190ac30edf8cd809b2b0a97aced81af327fd8bb55d4d27a5"
 metafile = true
 
 [[files]]
@@ -341,8 +366,33 @@ hash = "2d72ab90d2a6c3282078733dd48d282702ed535d7bc464ae7a68f2245f54829f"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
+metafile = true
+
+[[files]]
 file = "mods/gliders.pw.toml"
 hash = "f2b71bc40038f9707dea1bf3b4c9c940f9904950df59bc099ddd6a5e3754fee7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "ed8a0b1a394f833befe75cfb2f3ee8446c6869cb412e368b57a730b0a3ff5dee"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "3250ae9c4dd7e69bc931ea3c893622a15b268c4377d22145bdf2830ddaf4f2e5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "771f2b68ff7f5c95b3e259f609c02b93c0c0f2f327784b04928da7ced79d216c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "85b7e85a3610fa4ed2c2bea9e4e284d35c1a75003f08ca87fe80bf409bf09bd8"
 metafile = true
 
 [[files]]
@@ -353,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "54a1dd3794476e009e98022a21887bbe468d67f90bd7bd25927d9c9aceb51846"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "37418739fcbd7b04828c9071f772b5b086beab062d22185e636089b4891822de"
 metafile = true
 
 [[files]]
@@ -553,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4e132cac071d446b302daa3b872a8c01ce532ba75343b425673453cabb3552b3"
+metafile = true
+
+[[files]]
+file = "mods/some-more-blocks.pw.toml"
+hash = "fc9f3e96c4f55d758f552b701cb83fadb47a7ccb475256bbdaa4ee86c0567430"
 metafile = true
 
 [[files]]

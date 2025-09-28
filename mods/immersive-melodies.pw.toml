@@ -1,0 +1,13 @@
+name = "Immersive Melodies"
+filename = "immersive_melodies-fabric-0.6.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/96UFoshO/immersive_melodies-fabric-0.6.2%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "b7d552b3e03b7f0c994746b5cc608011be349a88ef6af35407582daff1d7a667"
+
+[update]
+[update.modrinth]
+mod-id = "TaSmHw8V"
+version = "96UFoshO"

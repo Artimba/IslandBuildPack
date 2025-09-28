@@ -1,0 +1,13 @@
+name = "Extended block shapes"
+filename = "extshape-fabric-3.1.1-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tb7kCxSW/versions/UXRUyVtY/extshape-fabric-3.1.1-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "2bfdd34d35318b0fda6563025feac9055087b3de4a8f073fa556417d042e9937"
+
+[update]
+[update.modrinth]
+mod-id = "tb7kCxSW"
+version = "UXRUyVtY"
