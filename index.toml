@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/coloredwater.pw.toml"
-hash = "e641fd2c316161c54e15e10f45625ebb3f2bf7f8489d9cbe2594fb869ef77b83"
+hash = "bd45c58140796e55efcd9e27ad3ba90f47fd67666a3eba823c20c7ecdb488264"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+hash = "22d899d51332175ee535a9827515ac086e82e4fe3baeb717068b581a7a662039"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
+hash = "eb70ef79f2738ea8145e875bd33cef65d5df098aedd6a66fbe7564abca33b34a"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "72ff03454352e42aca8b03c5844522894d74244cdd0a32763591164d23ee265c"
+hash = "f54f385f5269aae1fda492081c5c7ef6c19b56046ae822dfba9f026bd24d3ca5"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "85b7e85a3610fa4ed2c2bea9e4e284d35c1a75003f08ca87fe80bf409bf09bd8"
+hash = "264582ff6b8eff2dddd4283eef5ea33d9226a1d74dc02f9a7d4e59dbe97fbc86"
 metafile = true
 
 [[files]]
@@ -457,47 +457,47 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "f5f134844b199b78f07b6f58ded80ee7b6a786d509a95687a2abb48e8dffee6b"
+hash = "c04d23169238c9a0e76d1a7f31cbc212b205485f397793620e33a6a4541756b7"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "f48382dc8ad6b473ed5e6d050038513e56697143b1232c1ae8ff40861f06ba2f"
+hash = "641036f1cb7032950d37fe9970c1d5c4f57e10873e6a9682b5518cdfb3b6cce0"
 metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "93c57990c9353797107ca22b047d3ca732a977b0cfd343a0fb6a70f80649e282"
+hash = "9189694b7c8e2d0d9eeba31599de08c5a3cc37d06affbfe06cab4ce15cbb8d4b"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "1e084c6210b3a8572d010ebc7d7378793a1a99316adaa1d70a46d30926785564"
+hash = "adf51bc826126673c7e894d6bf12d64efb25eeb1076e0967929e383314fdb1ee"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "1197c76400a13a3961f70538d7acf7764436fc92899cca5bd05b9bf3027601c2"
+hash = "dc004091c83ad6a6e830f217b5aeb269c3e7b05a3f8d1a1ee1a77d63be665622"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "8d4ecc66f120419b4bc09fdd14151d2a207ddec30b46ae2184300fec0031b092"
+hash = "ed25dc5af86bf4be3b08c5f907c271889f0526f6ffe7c8198d54008d3482a70c"
 metafile = true
 
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
-hash = "b298c392b78418707ae9a32e2cf0af27ea9e57a0a673b895012dc90d08b73157"
+hash = "745da95cb7cc8e7665580f574f48e9520f0b382d3bf074c8e8e2f6cafe2a5a9d"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "9c814e3178b386f49e8d7b9ee060c26a51809c14331d9718ac9794be3e79d750"
+hash = "1fbfcffc79faf35512105eceec54357220f735f1484c342e8b73e04ae2b6e68e"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "b7efdf14e315ce387de72feb5337e84f96725d6d1c7e4f4cce5d444a75c2da3e"
+hash = "21c92de1455eb283c01af99b6475bf2750650c8dbfbaa6e1e1c9c67bfb02b3ab"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobfilter.pw.toml"
-hash = "6e1274cc8bd5da7dfafcaf7abfd6ea34dc7e83895f09c3b35b8626fffb8d4d3d"
+hash = "47ca63230d4a67af8474f01bbab29ed06fa943b4e7536ba0f627e0cf703be8ef"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+hash = "fad63c017628623dc2128412c8a03a63ad25c3beb5b9db2cdb0dcd5034c1d329"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "cf04dac77f2e254922ad8fd7d48dd30957923a8ab85040b59f284be3676b3331"
+hash = "8b3d557586dfd94d98ecf1cccea45bc78ad92427013c88c6d770038dc69c9f27"
 metafile = true
 
 [[files]]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/KjEcUoJ6/mcw-trapdoors-1.1.4-mc1.21.1fabric.jar"
-hash-format = "sha512"
-hash = "b1abfc7e4d3c57e3b03a1c7d2b0aaa8a56c12103d16ba739e85a312ee3b037986d3c799836089254bfb457451b9f032b728372999a03b96882aa5487e05bd904"
+hash-format = "sha256"
+hash = "b1630da98fe8c94bbb9c06c2b6176a0c1cc08a605ed59fda50be800ecbd96943"
 
 [update]
 [update.modrinth]
