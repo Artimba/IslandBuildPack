@@ -371,6 +371,11 @@ hash = "f2b71bc40038f9707dea1bf3b4c9c940f9904950df59bc099ddd6a5e3754fee7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "72ff03454352e42aca8b03c5844522894d74244cdd0a32763591164d23ee265c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-furniture.pw.toml"
 hash = "ed8a0b1a394f833befe75cfb2f3ee8446c6869cb412e368b57a730b0a3ff5dee"
 metafile = true
