@@ -526,11 +526,6 @@ hash = "37b1df3b3d4858355a4a297229eaa86c01e2567ec8029627c858ee6445ae69c1"
 metafile = true
 
 [[files]]
-file = "mods/mobfilter.pw.toml"
-hash = "47ca63230d4a67af8474f01bbab29ed06fa943b4e7536ba0f627e0cf703be8ef"
-metafile = true
-
-[[files]]
 file = "mods/mobs-of-mythology.pw.toml"
 hash = "16e2993585ada13036b4edbcdc3c7e334abbee58f13cc6659380fa8117fac295"
 metafile = true
