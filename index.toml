@@ -291,11 +291,6 @@ hash = "335f194d2904a2b6fa12f406e70f79b19d7b4553d536b89c9b505e4398c95e4d"
 metafile = true
 
 [[files]]
-file = "mods/extshape_blockus.pw.toml"
-hash = "ab956a21702a2283190ac30edf8cd809b2b0a97aced81af327fd8bb55d4d27a5"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfca9d41ed4f455d125f53d507885063f34e9974e24e665c04c7407d7396491e"
 metafile = true
