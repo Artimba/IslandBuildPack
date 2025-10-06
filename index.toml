@@ -246,6 +246,11 @@ hash = "2a3b64121b3ffe0ddcb6b3d1e28a562a617bb79318bdb1f88a8843effe618bb4"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "f3810d4c333a7a239e289d465791a4b99e559033d25b9eaf983e2f511dd994ac"
+metafile = true
+
+[[files]]
 file = "mods/customnpcs-unofficial.pw.toml"
 hash = "f4318c673269edac07e150120980ee4e4ff7b9a926a99ccb4882ef8b8b848e7f"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4503c1c77fcb18f3f7a078b85a6c59c1f89dda9d60cc7e71aca5b29f0da0cdf3"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
