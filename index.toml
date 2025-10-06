@@ -61,8 +61,8 @@ file = "icon.png"
 hash = "4afab6fd4b35ad0d31b83c02cb0d615fa5c32c3dc4563156b8e58704cd1f05d7"
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "457f5a0002a038bf04e712b1b879a928eb5c925daa8febf579af98437203569c"
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
 
 [[files]]
