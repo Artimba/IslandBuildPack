@@ -1,13 +1,13 @@
 name = "Beltborne Lanterns: Accessories Layer"
-filename = "bl_accessories_layer-1.0.1-fabric+1.21.jar"
+filename = "bl_accessories_layer-1.0.1-fabric+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/geZ7ilkE/versions/sZyhCoZy/bl_accessories_layer-1.0.1-fabric%2B1.21.jar"
-hash-format = "sha256"
-hash = "fd71972840a9336f3eda51f50ed03e5ecfadfa7b0a48e5789cd261ae2e7db34b"
+url = "https://cdn.modrinth.com/data/geZ7ilkE/versions/O1ZzXukY/bl_accessories_layer-1.0.1-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b592688a633144e5dfd7010e2638cb2d48c44f1b7c7b0dedbaa4f3c1750f1287ff1e765cac34be0a108aa750f968d8d9a7922c3c8c48cfc170fa3313e2b680e2"
 
 [update]
 [update.modrinth]
 mod-id = "geZ7ilkE"
-version = "sZyhCoZy"
+version = "O1ZzXukY"

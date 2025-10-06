@@ -1,13 +1,13 @@
 name = "Lifesteal"
-filename = "lifesteal-9.1.3+1.21.jar"
+filename = "lifesteal-9.3.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YX0eip4b/versions/qTUvNbi7/lifesteal-9.1.3%2B1.21.jar"
-hash-format = "sha256"
-hash = "61f604db91bdd48b93b6e13a3f886f2fbe558d39826777e2369c1f6b1cc0e10d"
+url = "https://cdn.modrinth.com/data/YX0eip4b/versions/Nl64L2h8/lifesteal-9.3.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f41595441b199cf52ceaacc72305d46659efb6a0ad6d5ff19e60a0845e71f8eb76684be73b989916b8e7f9f044698593d3d0796dcc5b9517541b66ce11f8fd44"
 
 [update]
 [update.modrinth]
 mod-id = "YX0eip4b"
-version = "qTUvNbi7"
+version = "Nl64L2h8"
