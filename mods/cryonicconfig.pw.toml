@@ -1,13 +1,13 @@
 name = "Cryonic Config"
-filename = "cryonicconfig-fabric-1.0.0+mc1.21.8.jar"
+filename = "cryonicconfig-fabric-1.0.0+mc1.21.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/sjYBA8l1/cryonicconfig-fabric-1.0.0%2Bmc1.21.8.jar"
-hash-format = "sha256"
-hash = "2141001259ec0d0a879d473f9652c01d20a50df87719dd4d693ecadd77392dd7"
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/awqw4fNs/cryonicconfig-fabric-1.0.0%2Bmc1.21.9.jar"
+hash-format = "sha512"
+hash = "437b87e8e9f073776fb1e90bad2bcba14ca5db818e99fd631ffcca39862c6189f68a73203ec099bab1295a98f641d894cda225ca0d7031024f493b58fcf0a16b"
 
 [update]
 [update.modrinth]
 mod-id = "oEhQIkOs"
-version = "sjYBA8l1"
+version = "awqw4fNs"
