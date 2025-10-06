@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/VOime5eN/archers-fabric-2.6.4%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "e2c078866943ccb6ed5a7941a16d4f0a05d6f8a7100d75e293d3cb079e8975b9231de14b8f9b1d259ce37d8065586586cf497585cb733111549171262b261004"
+hash-format = "sha256"
+hash = "0170cc14897818eac2dcee7ff7bf6736d676f393b5b80575c7f989d5f258f8e8"
 
 [update]
 [update.modrinth]

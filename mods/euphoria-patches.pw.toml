@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4H6sumDB/versions/89TprHIU/EuphoriaPatcher-1.7.0-r5.6-fabric.jar"
-hash-format = "sha512"
-hash = "7f2db6969dfa6a92938a456d497c793c08bff6f6b6ec6a39e4baf48c455718d882a02423a34fb56a2e027125b52679bd446baefc288ddf2386eb453dc314cb7d"
+hash-format = "sha256"
+hash = "cd081fbce3ebfee13fdba9267930b1bb48afba34c0e2eae90fd1c7ca63bf2e90"
 
 [update]
 [update.modrinth]
