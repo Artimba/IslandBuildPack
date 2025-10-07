@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/Ls16xJ6W/numismatic-overhaul-0.3.5%2B1.21.jar"
-hash-format = "sha512"
-hash = "af67e51f2c3d891bcd9d209411a434c6190c5c63c29af1e73af26286cdf3791b774a4ed9484b42657d7134640cca6afe55b82245b2472f16d9585b1b1fb4fdf8"
+hash-format = "sha256"
+hash = "3373e991675b586b9db11013314d1f971819c85cbc80331da4194cfc9714cc77"
 
 [update]
 [update.modrinth]

@@ -62,7 +62,7 @@ hash = "4afab6fd4b35ad0d31b83c02cb0d615fa5c32c3dc4563156b8e58704cd1f05d7"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
-hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
+hash = "fd79906644caa45414e2ccb0b18de3ef62b3b87e6c228087cd37185e513916ec"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
+hash = "0b184f05b11178ff3f9aef7faadebe13782b7d69469d7873ad79de2d5d1b0fef"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "dd6b8593c63f56146cae995ca8ce8a8f073eaa6869376acc7c2473920d38e3af"
+hash = "7711bcaa1d195d95f0691cf2400653c034577b56f2995f47fd7506258acd8ecb"
 metafile = true
 
 [[files]]
