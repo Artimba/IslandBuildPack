@@ -571,6 +571,11 @@ hash = "96853dde9e30bd6926b1f4179a20d36e26a58746af611ab195041c0a1e41da9c"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3b37cc60bbb73d9d37a9f6327db8b2a139b9f16771e38c01cfa111f106a7fdb0"
 metafile = true
@@ -658,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "41b1b5831f0abb991f1ee5fff0e72d65ebe0429f7961f923715b8781a1306374"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "dd6b8593c63f56146cae995ca8ce8a8f073eaa6869376acc7c2473920d38e3af"
 metafile = true
 
 [[files]]
