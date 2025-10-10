@@ -656,6 +656,11 @@ hash = "097f9a3b9b46f389b40c5946b8f792871d19e6ce484cd2b9e2926adecddf4235"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "62df1cb449d5c6f8c5d670f14819a106a451e88102b8b066efeb73951f058d30"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "8b3d557586dfd94d98ecf1cccea45bc78ad92427013c88c6d770038dc69c9f27"
 metafile = true
