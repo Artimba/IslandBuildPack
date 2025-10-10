@@ -111,6 +111,11 @@ hash = "b6752a92e4627f7ce0c0dee86c0bbc2b31af1a372c6fd2a39f1cadd622962013"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "d37f4cf0a2cbf0dcd6f1bfc5e8e580c8e97cb44f5f31f467290ed781a5a16fd6"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "35a3305e310a66607c2e1f8461d6e90a55ca46855cd9b7c1563d8f9a15518469"
 metafile = true
@@ -166,6 +171,11 @@ hash = "2b1af87e9427684be407732553aca6871f8ab0b17d4071b2f3bd2a8189ad22eb"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "7a6324de2cd1984f67243d72fb2f3c4d36e4a8cfc9bf4ecc72d022787b94b2a9"
 metafile = true
@@ -191,6 +201,16 @@ hash = "c85bdb3f7a03ce6c4bd5466f59c8ea2284f89882a0339a3ff5d5b030b2250fe6"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "89f19c0d5869c7629f14f8286e80194de77adc48338a21e79f257e57f79af4f5"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "47480e524587437dd8f23272cfc87ebabbfe167ed456c54b364e94ce6afd3276"
 metafile = true
@@ -198,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7bf631ca2d271cd48b162984500591a855464f75926db2902eb5087190e87d6"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
@@ -391,6 +416,11 @@ hash = "f2b71bc40038f9707dea1bf3b4c9c940f9904950df59bc099ddd6a5e3754fee7"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "f54f385f5269aae1fda492081c5c7ef6c19b56046ae822dfba9f026bd24d3ca5"
 metafile = true
@@ -448,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "7d5f524263c5f544dcaad78f1510bddd5a399c0ae48b19e9b57a4257f701039d"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
@@ -631,6 +666,16 @@ hash = "17a43931632a847fc7d4d0d04a6d1b174c6d005ad0ecfe5d18aec141c92230bb"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c0411712c2f419ef1a3930fb08c9bd151e4128530cd1c75093c6be4435ff5762"
 metafile = true
@@ -673,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "41b1b5831f0abb991f1ee5fff0e72d65ebe0429f7961f923715b8781a1306374"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-heads.pw.toml"
+hash = "30433efd8145906325ca92d57c480f04cb7147c7c331e9b89ec693af6f2112d5"
 metafile = true
 
 [[files]]
