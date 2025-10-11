@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "d37f4cf0a2cbf0dcd6f1bfc5e8e580c8e97cb44f5f31f467290ed781a5a16fd6"
+hash = "8d6148777b893585dfc50f7241395bc93479ba9dc72b1410fcc741c4eb087190"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
+hash = "d7753dd373026be5bda1a983822d3e7d20cc09864da999b9d1853c67d8ba1229"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "89f19c0d5869c7629f14f8286e80194de77adc48338a21e79f257e57f79af4f5"
+hash = "8ee9ef55a45e005cbd7093f2ce54d03c0c5f84ff3747b4a5626a8edd8bb9f1de"
 metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+hash = "6052ca555c5c0f2bdad3a0a80bc27cf200173568482e760a1e20295b2a6873b8"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+hash = "b4efce49beb6bbc585c5e03b27a98c686bce36e44212b15b984ea8a12686eb34"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2dbf702bd2cc9d2be307925ca9cecd929c982695df88943492da90c00bda04f8"
+hash = "b72d9e2f7854f4769709707c128c17f2c876139c31310ed0eedc3f267957611a"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+hash = "2fd616d44b1e912e0f71f5a943020372c8c30388afdcd13873d076b36f245cfe"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
+hash = "29919c13bcbfb4d6002a60b40d33bab7674a4e5f1cb1817790bdd3883752eefe"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
+hash = "9f273e3708f04a1ce7b892d5e71b90afd3ad48fefa9840bee5f7f245c9d99a05"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+hash = "d03a8757b7b1ab156aede330933d4df1a4960acec9b372e0b9f2fd2dc1542fd8"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "288747beb2483e473a86de31a9fff544e398d37e661c4a9bb7aa16769f7ee8f5"
+hash = "dcb99465470b5c7290cbe16a091de9c747b859a7dbf571d1473a98f0448016e7"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "62df1cb449d5c6f8c5d670f14819a106a451e88102b8b066efeb73951f058d30"
+hash = "acfa520ff064bc9fcb7bef7a892ddb232ad95b06a767c710352d64088b71e49f"
 metafile = true
 
 [[files]]
@@ -672,12 +672,12 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+hash = "faa79aa59a820cecced1db5537919ce1af01c692dc47ed0c15898296819cb920"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
+hash = "0f9f82343fbcf03310439a92f9109b7a61b16190b97279965cfb7b27ffacb9dc"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-chat-heads.pw.toml"
-hash = "30433efd8145906325ca92d57c480f04cb7147c7c331e9b89ec693af6f2112d5"
+hash = "f1269e1e736e81ae02baf83f7879ca62e737bd47f3f251074e6c9af9c575c1fa"
 metafile = true
 
 [[files]]

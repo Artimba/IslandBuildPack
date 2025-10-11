@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/w4an97C2/versions/pMR0VOs2/mcw-lights-1.1.2-mc1.21.1fabric.jar"
-hash-format = "sha512"
-hash = "d62ade7bcaad2ba2004db1292e46518ddc2b34c876336ccaf9a5a47c7f2344052865759263102c5786f87b0a30c5b008af23b6bf32cdc828eff3ad1e03e15b7d"
+hash-format = "sha256"
+hash = "20fa8025ffced59d9a83066825f67788163016aa0d39643e023225b42cf57542"
 
 [update]
 [update.modrinth]
