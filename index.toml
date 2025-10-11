@@ -791,11 +791,6 @@ hash = "f06f38a1854489f0ec7d6832526ac1b1f3423f88b943ef656b11e32151f6f450"
 metafile = true
 
 [[files]]
-file = "mods/spiffyhud.pw.toml"
-hash = "095bbd67f442c08a74bc48e090f63c2f03c6b557efd7d4151e3681a9c550e273"
-metafile = true
-
-[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "35fc0b324193cfb3caec91f0df9b96a8fb5978a05423aff6e49a77a8d05c3d84"
 metafile = true
